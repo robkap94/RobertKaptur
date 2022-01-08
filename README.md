@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+### Table of Contents
 
-You can use the [editor on GitHub](https://github.com/robkap94/RobertKaptur/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1. [Project 1](#project-1-header)
+2. [Project 2](#project-2-header)
+3. [Project 3](#project-3-header)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project 1 header
 
-### Markdown
+Description of this project...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```java
+Some code in Java as an example
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[**Visit the repository here for more**](link-to-the-repo.com)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/robkap94/RobertKaptur/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Project 2 header
 
-### Support or Contact
+Description of this project...
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```java
+Some code in Java as an example
+```
+
+[**Visit the repository here for more**](link-to-the-repo.com)
+
+
+# Project 3 header
+
+Description of this project...
+
+```java
+Some code in Java as an example
+```
+
+[**Visit the repository here for more**](link-to-the-repo.com)
+
