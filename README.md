@@ -1,6 +1,6 @@
 ### Table of Contents
 
-1. [Order Buddy](Order Buddy)
+1. [Order Buddy](#order-buddy)
 2. [Project 2](#project-2-header)
 3. [Project 3](#project-3-header)
 
